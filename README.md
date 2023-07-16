@@ -1,2 +1,4 @@
-# DecisionTree
-predict if a student can Graduate ON Time
+# Machine Learning Using Python - Decision Tree
+To predict if a student can graduate on time:
+
+
